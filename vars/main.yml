@@ -1,2 +1,2 @@
 ---
-service_pre_stop_command: /bin/true
+# vars file for systemd-service
